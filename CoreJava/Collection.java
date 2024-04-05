@@ -8,6 +8,7 @@ public class Collection {
         ArrayList<Integer> nums = new ArrayList<Integer>();
         nums.add(1);
         nums.add(2);
+        nums.add(3);
 
         System.out.println(nums);
 
