@@ -20,7 +20,7 @@ public class Collection {
         }
         System.out.println(nums.indexOf(2));
 
-
+        //s
         // set
         // can't have a repeated value and doesn't follow sequnce
 
